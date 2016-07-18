@@ -87,7 +87,7 @@ else
 end
 
 %% Migrate toolbox folder contents
-toolboxContent = 'Scor6AxisToolboxFunctions';
+toolboxContent = 'Scor6AxisToolbox';
 if ~isdir(toolboxContent)
     error(sprintf(...
         ['Change your working directory to the location of "installScor6AxisToolbox.m".\n',...
