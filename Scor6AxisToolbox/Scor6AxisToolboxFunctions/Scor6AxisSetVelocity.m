@@ -5,7 +5,7 @@ function confirm = Scor6AxisSetVelocity(ser, dt, values)
 %   Example:
 %       Scor6AxisWritePosition(ser, .05, rand(100, 6)
 %
-%   D. Saiontz, M. Kutze, 14July2016, USNA/SEAP
+%   D. Saiontz, M. Kutzer, 14July2016, USNA/SEAP
 
 % ser - serial object with:
 %   BaudRate - 115200

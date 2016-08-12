@@ -5,6 +5,8 @@ function ser = Scor6AxisInit(COM)
 % COM - string specifying serial port (e.g. 'COM5')
 % ser - Serial object output by function
 
+% D. Saiontz, M. Kutzer, 15July2016, USNA/SEAP
+
 %% Check inputs
 if ~ischar(COM)
     error('COM port must be specified as a sting.');

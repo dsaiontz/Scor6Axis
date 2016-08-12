@@ -4,7 +4,7 @@ function Scor6AxisReadCallback(ser, event)
 %
 % 
 %
-% D. Saiontz, 12July2016, USNA/SEAP
+% D. Saiontz, M. Kutzer, 12July2016, USNA/SEAP
 
 %% Globals for most recent Time, Positions, Velocities, and States as
 %   globals
